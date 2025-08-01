@@ -1,5 +1,32 @@
 # Electoral-Bonds-March-2024
 
+### 🗳️ Electoral Bonds March 2024 - Data Analysis
+This repository presents an in-depth data-driven analysis of the Electoral Bonds March 2024 scam in India, uncovering patterns of political funding, suspicious transactions, and anomalies in electoral donations. Leveraging data science, Python, pandas, and visualization tools, this project aims to bring transparency and insight into one of India’s most controversial political funding schemes.
+
+#### 🔍 Project Objectives
+- Analyze the Electoral Bonds data released in March 2024.
+- Identify major political party donations and their corporate sources.
+- Detect suspicious patterns and correlations in donations and political favors.
+- Visualize the flow of funds using modern data visualization techniques.
+
+#### 📊 Tools & Techniques Used
+- Python (pandas, NumPy, matplotlib, seaborn, plotly)
+- Jupyter Notebooks
+- Data cleaning & wrangling
+- Statistical and temporal analysis
+- Interactive visualizations
+
+#### 📁 Dataset Sources
+- Data released by the Election Commission of India (ECI)
+- Reports submitted by State Bank of India (SBI)
+- Media publications from The Hindu, Hindustan Times, Scroll.in, and The Wire
+
+#### 📌 Key Insights
+- Identification of top donors and recipients
+- Correlation between donation patterns and policy changes
+- Temporal spikes in donations around key legislative or electoral events
+
+---
 [Run the colab file here !](https://colab.research.google.com/drive/1G8poS4TjOSEi_CfCH3xvkBnKq2HpSHF6?usp=sharing)
 
 # Results of Data Analysis
@@ -114,3 +141,6 @@
 <div align="center">
   <img height="" width="" src="https://github.com/NME-rahul/Electoral-Bonds-March-2024/blob/main/images/download.png">
 </div>
+
+
+Electoral Bonds India, Electoral Bond Scam 2024, Indian political funding analysis, March 2024 Electoral Bonds data, Electoral bond data visualization, political donations India, Electoral fraud India, Election Commission data analysis, open data democracy India
